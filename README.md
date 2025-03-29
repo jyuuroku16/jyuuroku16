@@ -1,7 +1,7 @@
 # Hello, I'm Jyuuroku! 👋
 
 ## 🚀 About Me
-- 💻 Currently working as a Frontend Developer.
+- 💻 Currently working as an Frontend/iOS Developer.
 - 📱 Experienced iOS Developer with a passion for creating intuitive and user-friendly applications.
 - 🌱 Constantly learning and exploring new technologies.
 - 📝 I write articles on my [Blog](https://www.jyuuroku.com/).
