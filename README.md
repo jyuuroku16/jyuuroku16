@@ -18,6 +18,7 @@
 - **App Search**: Easily Find Global App Store Apps. [Check it out here!](https://www.appsearch.app/)
 - **Japanese Grammar Analysis**: Analyze Japanese sentences structure and grammar patterns with hiragana reading display. [Check it out here!](https://www.jagrammar.com/)
 - Work In Progress...
+- **KanaWords**: A new Japanese vocabulary learning app oriented towards native Chinese speakers. [Check it out here!](https://www.jagrammar.com/kanawords)
 
 ## 📫 How to reach me
 - [X](https://twitter.com/wwzzyying)
