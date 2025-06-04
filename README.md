@@ -4,11 +4,12 @@
 - 💻 Currently working as an Frontend/iOS Developer.
 - 📱 Experienced iOS Developer with a passion for creating intuitive and user-friendly applications.
 - 🌱 Constantly learning and exploring new technologies.
-- 📝 I write articles on my [Blog](https://www.jyuuroku.com/projects).
+- 📝 I write articles and list my projects on my [Blog](https://www.jyuuroku.com/projects).
+- 🏵 My app store products page [Jyuuroku](https://apps.apple.com/us/developer/id1793009529)
 
 ## 🛠️ My Tech Stack
-- **Frontend**: React, React Native (JavaScript, TypeScript)
 - **Mobile Development**: iOS (Swift, Objective-C, Ruby)
+- **Frontend**: React, React Native (JavaScript, TypeScript)
 
 ## 🎯 My Goals
 - To build efficient and impactful applications that make users' lives easier.
