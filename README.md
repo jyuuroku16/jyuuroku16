@@ -7,15 +7,15 @@
 - 📝 I write articles and list my projects on my [Blog](https://www.jyuuroku.com/projects).
 - 🏵 My app store products page [Jyuuroku](https://apps.apple.com/us/developer/id1793009529)
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 - **Mobile Development**: iOS (Swift, Objective-C, Ruby)
 - **Frontend**: React, React Native (JavaScript, TypeScript)
 
-## 🎯 My Goals
+## 🎯 Goals
 - To build efficient and impactful applications that make users' lives easier.
 - To continue growing as a versatile developer with expertise in both frontend and mobile development.
 
-## 📱 Product
+## 📱 Products
 - **App Search**: Easily Find Global App Store Apps. [Check it out here!](https://www.appsearch.app/)
 - **Japanese Grammar Analysis**: Analyze Japanese sentences structure and grammar patterns with hiragana reading display. [Check it out here!](https://www.jagrammar.com/)
 - **KanaWords**: A new Japanese vocabulary learning app oriented towards native Chinese speakers. [Check it out here!](https://www.jagrammar.com/kanawords)
