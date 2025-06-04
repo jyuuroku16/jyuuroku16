@@ -17,7 +17,6 @@
 ## 📱 Product
 - **App Search**: Easily Find Global App Store Apps. [Check it out here!](https://www.appsearch.app/)
 - **Japanese Grammar Analysis**: Analyze Japanese sentences structure and grammar patterns with hiragana reading display. [Check it out here!](https://www.jagrammar.com/)
-- Work In Progress...
 - **KanaWords**: A new Japanese vocabulary learning app oriented towards native Chinese speakers. [Check it out here!](https://www.jagrammar.com/kanawords)
 - **Gojuon**: An iOS desktop widget app designed for Japanese learners. Display the Kana chart on your phone's desktop for easy memorization anytime, anywhere. [Check it out here!](https://www.jagrammar.com/gojuon)
 
