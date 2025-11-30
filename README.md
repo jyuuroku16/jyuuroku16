@@ -23,7 +23,7 @@
 
 ## 📫 How to reach me
 - [X](https://twitter.com/wwzzyying)
-- [Email](mailto:jyuurokuu@gmail.com)
+- [Email](mailto:me@jyuuroku.com)
 
 <!-- 
 ## 📈 GitHub Stats
