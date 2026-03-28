@@ -8,8 +8,8 @@
 - 🏵 My app store products page [Jyuuroku](https://apps.apple.com/us/developer/id1793009529)
 
 ## 🛠️ Tech Stack
-- **Mobile Development**: iOS (Swift, Objective-C, Ruby)
-- **Frontend**: React, React Native (JavaScript, TypeScript)
+- **Mobile Development**: iOS (Swift, Objective-C, Ruby, SwiftUI, React Native)
+- **Frontend**: React, React Native Web (JavaScript, TypeScript)
 
 ## 🎯 Goals
 - To build efficient and impactful applications that make users' lives easier.
