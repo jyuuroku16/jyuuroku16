@@ -16,13 +16,13 @@
 - To continue growing as a versatile developer with expertise in both frontend and mobile development.
 
 ## 📱 Products
-- **App Search**: Easily Find Global App Store Apps. [Check it out here!](https://www.appsearch.app/)
-- **Japanese Grammar Analysis**: Analyze Japanese sentences structure and grammar patterns with hiragana reading display. [Check it out here!](https://www.jagrammar.com/)
-- **KanaWords**: A new Japanese vocabulary learning app oriented towards native Chinese speakers. [Check it out here!](https://www.jagrammar.com/kanawords)
-- **Gojuon**: An iOS desktop widget app designed for Japanese learners. Display the Kana chart on your phone's desktop for easy memorization anytime, anywhere. [Check it out here!](https://www.jagrammar.com/gojuon)
+- **[App Search](https://www.appsearch.app/)**: Easily Find Global App Store Apps.
+- **[Japanese Grammar Analysis](https://www.jagrammar.com/)**: Analyze Japanese sentences structure and grammar patterns with hiragana reading display.
+- **[KanaWords](https://www.jagrammar.com/kanawords)**: A new Japanese vocabulary learning app oriented towards native Chinese speakers.
+- **[Gojuon](https://www.jagrammar.com/gojuon)**: An iOS desktop widget app designed for Japanese learners. Display the Kana chart on your phone's desktop for easy memorization anytime, anywhere.
 
 ## 📫 How to reach me
-- [X](https://twitter.com/wwzzyying)
+- [X](https://twitter.com/jyuuroku_16)
 - [Email](mailto:me@jyuuroku.com)
 
 <!-- 
